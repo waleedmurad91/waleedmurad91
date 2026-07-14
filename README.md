@@ -88,12 +88,7 @@ Built responsive, cross-browser interfaces with React.js and consumed RESTful AP
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleedmurad91&show_icons=true&theme=default&hide_border=true" alt="Waleed's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedmurad91&hide_border=true" alt="Waleed's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedmurad91&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 ---
@@ -106,4 +101,4 @@ Built responsive, cross-browser interfaces with React.js and consumed RESTful AP
 <a href="https://waleedmurad.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2f81f7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>📞 +92 304 8000 717 &nbsp;|&nbsp; 📍 Lahore, Punjab, Pakistan</i></p>
+<p align="center"><i>📍 Lahore, Punjab, Pakistan</i></p>
