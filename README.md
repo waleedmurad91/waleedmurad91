@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Waleed%20Murad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20%26%20Shopify%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <br/>
 
@@ -153,6 +153,6 @@ Custom homepage/product sections with dynamic Add to Cart via the Storefront API
 
 <i>📍 Lahore, Punjab, Pakistan</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>
 
 </div>
