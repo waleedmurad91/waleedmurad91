@@ -1,0 +1,21 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#2C5364"/>
+      <stop offset="100%" stop-color="#00C9A7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <path d="M0,180 C 200,150 400,210 600,180 C 800,150 1000,210 1200,180 L1200,220 L0,220 Z"
+        fill="#ffffff" opacity="0.06"/>
+  <path d="M0,195 C 220,170 420,220 620,195 C 820,170 1000,220 1200,195 L1200,220 L0,220 Z"
+        fill="#ffffff" opacity="0.10"/>
+
+  <text x="600" y="100" font-family="Verdana, Arial, sans-serif" font-size="52" font-weight="bold"
+        fill="#ffffff" text-anchor="middle">Waleed Murad</text>
+  <text x="600" y="140" font-family="Verdana, Arial, sans-serif" font-size="20"
+        fill="#B7EFE5" text-anchor="middle">Front-End &amp; Shopify Developer</text>
+</svg>
